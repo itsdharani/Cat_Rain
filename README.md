@@ -1,6 +1,6 @@
 # This repository contains a C program that simulates raining of colorful unicode/glyph cats:
 
-<img src="./image.png"  width="450" >
+<img src="./catrain.gif"  width="450" >
 
 
 ## To implement the code, make sure `gcc`,`ncurses`,`nerd-fonts-jetbrains-mono`(or any nerd font of your choice) are installed.
