@@ -66,7 +66,7 @@ void exitCurses();
 int pRand(int min, int max);
 int getNumOfCats();
 void handleResize(int sig);
-void exitErr(const char *err);
+void exitErr(const char *err) __attribute__((noreturn));
 void usage();
 
 int mssleep(long msec)
